@@ -1,0 +1,11 @@
+A	1
+long	1
+time	1
+ago	1
+in	1
+a	1
+galaxy	1
+far	1
+far	1
+away	1
+
